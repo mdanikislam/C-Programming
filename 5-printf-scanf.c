@@ -1,4 +1,6 @@
 // write a program that take two number and print their sum number 
+// @mdanikislam
+
 #include<stdio.h>
 int main(){
     int num1;

@@ -1,4 +1,6 @@
 // C program to conversion octal number to decimal number.
+// @mdanikislam
+
 #include<stdio.h>
 int main(){
     int number;

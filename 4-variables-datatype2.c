@@ -1,4 +1,6 @@
 //write a program that take a intger number and print that number
+// @mdanikislam
+
 #include<stdio.h>
 int main(){
     int num;

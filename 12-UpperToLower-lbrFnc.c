@@ -1,6 +1,8 @@
 // C program to conversion uppercase to lower case using library function
+// @mdanikislam
+
 #include<stdio.h>
-#include<ctype.h>
+#include<ctype.h>  // for tolower library function
 
 int main(){
     char upper, lower;
