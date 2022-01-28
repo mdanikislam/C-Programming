@@ -1,4 +1,4 @@
-// C program to conversion uppercase to lowercase without use library function
+// C program that conversion uppercase to lowercase without use library function
 // @mdanikislam
 
 #include<stdio.h>
