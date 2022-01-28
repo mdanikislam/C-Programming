@@ -1,4 +1,4 @@
-// C program that conversion octal nubmer to hexadecimal number 
+// C program that conversion octal nubmer to hexadecimal  number 
 // @mdanikislam
 
 #include<stdio.h>

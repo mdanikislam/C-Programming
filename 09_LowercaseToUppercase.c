@@ -1,4 +1,4 @@
-// C program taht conversion lowercar to uppercase without use library function
+// C program taht conversion lowercar to uppercase without use library  function
 // @mdanikislam
 
 #include<stdio.h>

@@ -1,4 +1,4 @@
-// C program that conversion deciaml to hexadecimal 
+// C program that conversion deciaml to  hexadecimal 
 // @mdanikislam
 
 #include<stdio.h>

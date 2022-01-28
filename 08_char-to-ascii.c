@@ -1,4 +1,4 @@
-// c program that find an ASCII value of a Character. 
+// c program that find an ASCII value of a  Character. 
 // @mdanikislam
 
 #include<stdio.h>

@@ -1,4 +1,4 @@
-// C program that conversion decimal to octal
+// C program that conversion decimal to  octal
 // @mdanikislam
 
 #include<stdio.h>

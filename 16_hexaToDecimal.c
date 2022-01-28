@@ -1,4 +1,4 @@
-// C program that connversion hexadecimal to decimal number 
+// C program that connversion hexadecimal to decimal  number 
 // @mdanikislam
 
 #include<stdio.h>
