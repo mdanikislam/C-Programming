@@ -4,44 +4,13 @@
                   -- = decrement */
 // @mdanikislam
 
-// *** unary plus *** 
+// *** unary plus,minus *** 
 #include<stdio.h>
 int main()
 {
-   int x=10;
-   int result = +x;
+   int x=10, y=15;
+   int result = +x, result_y= -y;
    printf("%d\n",result);
+   printf("%d\n",result_y);
    return 0;
 }
-
-// *** unary minus *** 
-/* #include<stdio.h>
-int main()
-{
-   int x=10;
-   int result = -x;
-   printf("%d\n",result);
-   return 0;
-}
-// Output: -10 */
-
-// *** unary increment *** 
-/* #include<stdio.h>
-int main()
-{
-    int x=10;
-    int y = ++x; 
-    printf("x = %d\n",x);
-    printf("y = %d\n",y);
-} */
-
-
-//*** unary decrement ***
-/* #include<stdio.h>
-int main()
-{
-    int x=10;
-    int y = x++; 
-    printf("x = %d\n",x);
-    printf("y = %d\n",y);
-} */
