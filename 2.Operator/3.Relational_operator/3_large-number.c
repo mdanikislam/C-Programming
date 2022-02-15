@@ -15,4 +15,6 @@ int main()
     {
         printf("Large number is: %d",num2);
     }
+    else
+    printf("Numbers are equal");
 }
