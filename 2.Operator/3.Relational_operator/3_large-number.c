@@ -11,7 +11,7 @@ int main()
     {
         printf("Large nubmer is = %d",num1);
     }
-    if(num1<num2)
+    else if(num1<num2)
     {
         printf("Large number is: %d",num2);
     }
