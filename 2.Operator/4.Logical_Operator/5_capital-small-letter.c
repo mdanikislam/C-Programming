@@ -10,4 +10,4 @@ int main()
     printf("This is Small letter");
     else
     printf("This is not a character");
-    }`
+    }
